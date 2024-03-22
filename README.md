@@ -26,6 +26,9 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
+For deploy follow this documents
+[Github](https://github.com/Ajay-Dhangar/CodeMastermindHQ/discussions/288)
+
 Using SSH:
 
 ```
