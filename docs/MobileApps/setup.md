@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Mandatory setup/Changes
+# Setup/Changes
 
 ## Run an existing flutter project on IDE
 
@@ -35,44 +35,14 @@ To run an existing Flutter project on an Integrated Development Environment (IDE
 By following these steps, you should be able to successfully run your existing Flutter project on your preferred IDE. Make sure to troubleshoot any errors that may arise during the build process or runtime execution.
 
 
-## Change app Logo
-To replace the image named `logo.png` in the `assets/images` directory with your own logo and then update the app launcher icon using the `flutter_launcher_icons` package, you can follow these steps:
-
-1. **Replace `logo.png` in Assets:**
-   - Navigate to the `assets/images` directory in your Flutter project.
-   - Delete the existing `logo.png` file.
-   - Paste your own logo file and ensure it is named `logo.png`.
-
-   ![Replace logo image](./img/logo1.png)
-
-2. **Update Launcher Icon:**
-   - Open your terminal or command prompt.
-   - Navigate to your Flutter project directory.
-   - Run the following command to update the app launcher icon using `flutter_launcher_icons`:
-     ```
-     dart run flutter_launcher_icons -f icon_launcher.yaml
-     ```
-   - This command will read the configuration specified in the `icon_launcher.yaml` file and update the app launcher icon accordingly.
-
-   ![Update Launcher Icon](./img/logo2.png)
-
-3. **Verify Changes:**
-   - Once the command has been executed successfully, verify that the new launcher icon has been applied to your app.
-
-By following these steps, you should be able to replace the `logo.png` image in the `assets/images` directory with your own logo and update the app launcher icon using the `flutter_launcher_icons` package. Make sure to adhere to the naming conventions and file paths specified in your project configuration to ensure the changes are applied correctly.
-
-
 ## Change app Name
 To change the app name in a Flutter project using the `rename` tool, you would typically follow these steps:
 
-1. **Navigate to the Terminal:**
-   - Open your terminal or command prompt.
+1. Open your terminal or command prompt.
 
-2. **Navigate to Project Directory:**
-   - Use the `cd` command to navigate to the directory where your Flutter project is located.
+2. Use the `cd` command to navigate to the directory where your Flutter project is located.
 
-3. **Run the `rename` Command:**
-   - Paste the following command into your terminal and replace `"YourAppName"` with the desired name for your app:
+3. Paste the following command into your terminal and replace `"YourAppName"` with the desired name for your app:
      ```
      rename setAppName --targets ios,android --value "YourAppName"
      ```
@@ -80,9 +50,6 @@ To change the app name in a Flutter project using the `rename` tool, you would t
 
 4. **Verify Changes:**
    - After running the command, verify that the app name has been updated correctly in both the iOS and Android configurations.
-
-By following these steps and running the provided `rename` command, you should be able to change the app name in your Flutter project efficiently. Make sure to replace `"YourAppName"` with the actual name you want for your app.
-
 
 
 ## Change Base URL
