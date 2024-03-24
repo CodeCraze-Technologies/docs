@@ -7,7 +7,7 @@ sidebar_position: 2
 Flutter App Development Guide
 
 Software Requirements:
-- Flutter SDK (version 3.16.7 Stable)
+- Flutter SDK
   - Download and install from the official Flutter website: [Flutter Official Website](https://flutter.dev/docs/get-started/install)
 - Android Studio
   - Download Android Studio from: [Android Studio Download](https://developer.android.com/studio)

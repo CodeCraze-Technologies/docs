@@ -15,8 +15,6 @@ To successfully utilize our Flutter app conversion solution, it's essential to h
 
 4. **Knowledge of Flutter Development**: Familiarize yourself with Flutter app development fundamentals. Understanding Flutter widgets, state management, and navigation concepts will aid in customizing and optimizing your app.
 
-5. **Server Setup**: While our solution focuses solely on Flutter app development, basic knowledge of server setup can be beneficial if you plan to host the app backend or APIs. We recommend using a real server for deployment.
-
-6. **Optional**: Google Cloud and Firebase Knowledge: While not compulsory, familiarity with Google Cloud services and Firebase can enhance the functionality of your Flutter app, especially for features like authentication, cloud storage, and push notifications.
-
+:::info
 By ensuring you meet these basic requirements, you'll be well-equipped to install, customize, and publish your branded Flutter app seamlessly.
+:::
