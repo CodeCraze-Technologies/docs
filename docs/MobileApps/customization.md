@@ -8,8 +8,9 @@ You may Customize as your requirements
 
 ## Change App Color
 To change the app's color scheme
+   1. Goto resources directory.
+   2. Open app_color.dart then change the color
 
-Goto resources->app_color.dart then change the color
 ![Change App Color](./img/change-app-color.jpeg)
 
 
@@ -27,7 +28,7 @@ To replace the app logo you can follow these steps:
 2. **Update Launcher Icon:**
    - Open your terminal or command prompt.
    - Navigate to your Flutter project directory.
-   - Run the following command to update the app launcher icon using `flutter_launcher_icons`:
+   - Run the following command to update the app launcher icon using:
      ```
      dart run flutter_launcher_icons -f icon_launcher.yaml
      ```
