@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator to deplory [GitHub](https://github.com/Ajay-Dhangar/CodeMastermindHQ/discussions/288).
 
 ## Getting Started
 
