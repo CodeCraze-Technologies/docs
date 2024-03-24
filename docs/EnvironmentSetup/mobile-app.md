@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Mobile App
+# Flutter
 
 Flutter App Development Guide
 
