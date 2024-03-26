@@ -4,8 +4,8 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Web2Flutter app',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Web Master',
+    Svg: require('@site/static/img/app-logo.svg').default,
     description: (
       <>
         This app will convert any website to flutter app.

@@ -19,8 +19,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://github.com/CodeCraze-Technologies">
-            CodeCraze GitHub
+            to="https://themeforest.net/user/codecrazetech">
+            CodeCraze Tech Codecanyon Profile
           </Link>
         </div>
       </div>

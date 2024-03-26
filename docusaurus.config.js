@@ -8,9 +8,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Code Craze',
+  title: 'Code Craze Tech',
   tagline: 'Welcome to Codecraze!',
-  favicon: 'img/logo.png',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -44,14 +44,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/CodeCraze-Technologies',
+            'https://themeforest.net/user/codecrazetech',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/CodeCraze-Technologies',
+            'https://themeforest.net/user/codecrazetech',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -79,8 +79,8 @@ const config = {
             label: 'Web Master',
           },
           {
-            href: 'https://github.com/CodeCraze-Technologies',
-            label: 'GitHub',
+            href: 'https://themeforest.net/user/codecrazetech',
+            label: 'Our products',
             position: 'right',
           },
         ],
@@ -110,8 +110,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/CodeCraze-Technologies',
+                label: 'Our Products',
+                href: 'https://themeforest.net/user/codecrazetech',
               },
             ],
           },
