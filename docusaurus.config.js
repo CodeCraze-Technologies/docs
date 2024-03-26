@@ -93,7 +93,7 @@ const config = {
             items: [
               {
                 label: 'Web Master',
-                to: '/docs/intro',
+                to: '/docs/docs/intro',
               },
             ],
           },
