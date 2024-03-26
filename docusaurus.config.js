@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Code Craze',
+        title: 'Code Craze Tech',
         logo: {
           alt: 'Code Craze logo',
           src: 'img/logo.png',
